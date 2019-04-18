@@ -1,13 +1,15 @@
 .signin-left{
- background-image: url("../images/office.png");
- background-size: 1010px 100%;
+ background-image: url("../images/frontdesk.png");
+ background-size: 850px 100%;
  background-repeat: no-repeat;
 }
    
-.signin-box h1{
+/* .signin-box h1{
     position: absolute;
     top:0;
     left:0;
     padding:20px;
     font-size: 50px;
-}
+    color: white;
+} */
+
